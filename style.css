@@ -1,0 +1,18 @@
+.text_images_and_result{
+    text-align: justify;
+    border-radius: 10px;
+    box-shadow: 5px 5px 18px gray;
+    width: 30%;
+}
+
+#heading{
+    color: green;
+    font-family: cursive, bold;
+}
+
+.final_result{
+    color: purple;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: cursive;
+}
